@@ -1,0 +1,12 @@
+numpy
+Pillow
+tensorflow
+opencv-python
+matplotlib
+
+python-telegram-bot 
+flask 
+gunicorn 
+requests
+Flask-APScheduler
+telegram
